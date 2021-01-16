@@ -173,6 +173,9 @@
 @media (max-width: 575px){
 	
 	/*extra-small*/
+	.fixed-top {
+	    padding: 25px 0px !important;
+	}
 	.banner-content {
 
 		margin-top: 15%;
